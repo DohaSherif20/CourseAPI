@@ -233,7 +233,7 @@ This project uses JWT in headers for simplicity, but cookies are industry standa
 * Enrollment operation
 ![alt text](image-9.png)
 
----
+
 
 ##  Conclusion
 
