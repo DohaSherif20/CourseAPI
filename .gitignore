@@ -1,5 +1,21 @@
+# 🔹 .NET
 bin/
 obj/
 .vs/
 *.user
+*.suo
+*.db
+
+# 🔹 Config
 appsettings.Development.json
+
+# 🔹 React / Node
+node_modules/
+.env
+
+# 🔹 Logs
+*.log
+
+# 🔹 OS
+.DS_Store
+Thumbs.db
